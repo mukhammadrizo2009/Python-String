@@ -1,0 +1,6 @@
+text01 = input("Birinchi so'zni kiriting: ")
+text02 = input("Ikkinchi so'zni kiriting: ")
+
+result = text01 in text02
+
+print(result)
